@@ -1,4 +1,3 @@
-from email.generator import Generator
 import itertools
 
 single_nested = [
